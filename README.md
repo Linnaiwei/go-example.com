@@ -1,3 +1,3 @@
 # Hadwin
 
-An simple web application written in Go!
+A sample web application written in Go!
