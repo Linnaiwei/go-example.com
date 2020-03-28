@@ -16,3 +16,6 @@
 
 #Don't include go binary
 go-example.com
+
+#Don't include tmp/
+tmp/
